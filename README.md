@@ -11,7 +11,7 @@ twine check dist/PROJECT_NAME-1.0.0.tar.gz
 
 ## Install to python environment localling
 
-`pip install PATH_TO_PROJECT/dist/PROJECT_NAME.tar.gz`
+`pip install PATH_TO_PROJECT/dist/PROJECT_NAME-1.0.0.tar.gz`
 You should run this before uploading it and check all works as expected.
 
 ## The following will push the package to pip 
