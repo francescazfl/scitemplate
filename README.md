@@ -6,7 +6,7 @@ If you don't already have twine installed run the following:
 ## The following will create the package
 ```
 python setup.py sdist bdist_wheel
-twine check dist/PROJECT_NAME.tar.gz
+twine check dist/PROJECT_NAME-1.0.0.tar.gz
 ```
 
 ## Install to python environment localling
